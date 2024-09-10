@@ -1,4 +1,4 @@
-pyrfork<=2.0.106
+pyrfork<=2.0.33
 tgcrypto<=1.2.3
 aiohttp<=3.9.0
 python-dotenv<=0.20.0
